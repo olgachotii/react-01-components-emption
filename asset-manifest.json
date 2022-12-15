@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-01-components-emption/static/css/main.d989a96f.css",
+    "main.js": "/react-01-components-emption/static/js/main.e127c08d.js",
+    "index.html": "/react-01-components-emption/index.html",
+    "main.d989a96f.css.map": "/react-01-components-emption/static/css/main.d989a96f.css.map",
+    "main.e127c08d.js.map": "/react-01-components-emption/static/js/main.e127c08d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d989a96f.css",
+    "static/js/main.e127c08d.js"
+  ]
+}
